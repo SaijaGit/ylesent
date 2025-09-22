@@ -2,7 +2,7 @@
 
 ### Clone project
 ```bash
-git clone https://github.com/SaijaGit/ylesent.git
+git clone https://github.com/ids-project-ylesent/ylesent.git
 cd ylesent
 ```
 
