@@ -1,2 +1,2 @@
 def run(): 
-	print("Visualize.py: Amazing visualiszations here!!")
+	print("Visualize.py: Amazing visualizations here!!")
