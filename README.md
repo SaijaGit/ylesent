@@ -8,19 +8,18 @@ cd ylesent
 
 ### Poetry
 ```bash
-poetry env use 3.13
 poetry install
 ```
 
 ### Run all
 ```bash
-poetry run python -m src
+poetry run ylesent
 ```
 
 ### Run specific parts
 ```bash
-poetry run python -m src preprocess
-poetry run python -m src train
-poetry run python -m src predict
-poetry run python -m src visualize
+poetry run ylesent preprocess
+poetry run ylesent train
+poetry run ylesent predict
+poetry run ylesent visualize
 ```
