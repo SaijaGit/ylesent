@@ -1,0 +1,9 @@
+text,sentiment
+"""But the plans were on display""",1
+"""On display? I eventually had to go down to the cellar to find them.""",0
+"""That's the display department.""",1
+"""With a flashlight.""",0
+"""Ah, well, the lights had probably gone.""",1
+"""So had the stairs.""",0
+"""But look, you found the notice, didn't you?""",1
+"""Yes,"" said Arthur, ""yes I did. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying ""Beware of the Leopard.""",0
